@@ -41,6 +41,10 @@ Also available on [SourceForge](https://sourceforge.net/projects/nibblepro/).
 
 Free for personal and commercial use. Binary distribution only — source code is not available.
 
+## About the installation
+
+Windows SmartScreen may flag the installer with a "Windows protected your PC" warning, because the executable isn't code-signed with a commercial certificate (those cost too much for a free hobby project). The installer is clean. You can verify it yourself: the SHA-256. To proceed past SmartScreen: click "More info" → "Run anyway". Or VirusTotal it first if you prefer — it's clean.
+
 ## Contact
 
 p.wojcik.cnc@gmail.com
